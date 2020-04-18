@@ -793,9 +793,9 @@
     
     {
         "name": "Bitbucket",
-        "url": "https://bitbucket.org/account/",
-        "difficulty": "easy",
-        "notes": "On the side menu, click on 'Delete Account' and on the confirmation page click 'Delete Account', all repositories and the account is immediately wiped.",
+        "url": "https://id.atlassian.com/manage-profile/account-preferences",
+        "difficulty": "medium",
+        "notes": "You can't delete the account directly from Bitbucket; you have to go to Atlassain. Then go to ""Manage Profile > Account Preferences > Delete your account"". All repositories and the account is immediately wiped.",
         "notes_fr": "Dans les parametres du compte cliquez sur supprimer le compte puis sur supprimer le compte. Tous les dépot ainsi que le compte seront immediatement supprimés.",
         "notes_it": "Nel menu al lato, clicca su 'Delete Account' e fai lo stesso sulla pagina di conferma, l'account e i repositories saranno cancellati",
         "notes_pt_br": "No menu lateral, clique em 'Delete Account' e na página de confirmação clique em 'Delete Account', todos os repositórios e contas serão imediatamente excluídos.",
