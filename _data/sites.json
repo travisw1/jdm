@@ -856,6 +856,16 @@
     },
 
     {
+        "name": "Blurb",
+        "url": "https://support.blurb.com/hc/en-us/requests/new",
+        "difficulty": "hard",
+        "notes": "You have to submit a request from the email associated with your account",
+        "domains": [
+            "blurb.com"
+        ]
+    },
+    
+    {
         "name": "Blue Apron",
         "url": "https://www.blueapron.com/cancel_subscription",
         "difficulty": "easy",
@@ -2191,7 +2201,16 @@
             "easyjet.com"
         ]
     },
-
+    
+    {
+        "name": "Eat This Much",
+        "url": "https://www.eatthismuch.com/delete-account/",
+        "difficulty": "easy",
+        "domains": [
+            "eatthismuch.com"
+        ]
+    },
+    
     {
         "name": "EBANX",
         "url": "http://ebanx.com",
@@ -5384,6 +5403,16 @@
             "nexusmods.com"
         ]
     },
+    
+    {
+        "name": "Niche",
+        "url": "https://www.niche.com/account/edit-profile/?i#privacy",
+        "difficulty": "easy",
+        "notes": "At the bottom of the privacy page, there is a 'Deactivate Account' button.",
+        "domains": [
+            "niche.com"
+        ]
+    },
 
     {
         "name": "Nike+",
@@ -8134,7 +8163,17 @@
             "wayn.com"
         ]
     },
-
+    
+    {
+        "name": "WayUp",
+        "url": "https://www.wayup.com/member/settings/account",
+        "difficulty": "easy",
+        "notes": "Select ""Deactivate Account""",
+        "domains": [
+            "wayup.com"
+        ]
+    },
+    
     {
         "name": "Waze",
         "url": "https://www.waze.com/dashboard/delete_account",
