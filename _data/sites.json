@@ -782,6 +782,16 @@
     },
 
     {
+        "name": "BigOven",
+        "url": "https://www.bigoven.com/account/unsubscribe",
+        "difficulty": "easy",
+        "notes": "Go to ""My Profile >  Cancel Account"", type ""YES"" in the box, and select ""Delete my account entirely""",
+        "domains": [
+            "bigoven.com"
+        ]
+    },
+    
+    {
         "name": "Bitbucket",
         "url": "https://bitbucket.org/account/",
         "difficulty": "easy",
