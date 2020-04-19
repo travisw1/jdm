@@ -2629,7 +2629,17 @@
             "fitocracy.com"
         ]
     },
-
+    
+    {
+        "name": "Fiverr",
+        "url": "https://www.fiverr.com",
+        "difficulty": "easy",
+        "notes": "Go to Account Settings, then choose a reason for deactivation at the bottom of the page.",
+        "domains": [
+            "fiverr.com"
+        ]
+    },
+    
     {
         "name": "Flattr",
         "url": "https://flattr.com/settings/account/delete",
@@ -3602,7 +3612,17 @@
             "hol.org.uk"
         ]
     },
-
+    
+    {
+        "name": "Honeyfund",
+        "url": "https://www.honeyfund.com/OurRegistry#edit/contact",
+        "difficulty": "easy",
+        "notes": "Click on ""Close my account"" at the bottom of the contact page.",
+        "domains": [
+            "honeyfund.com"
+        ]
+    },
+    
     {
         "name": "Hostelsclub",
         "url": "http://www.hostelsclub.com/",
